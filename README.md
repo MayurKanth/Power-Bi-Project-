@@ -12,14 +12,14 @@ __Key Performance Indicators__
 __Steps involved in the project are :-__
 1. Data Walkthrough
 2. Data Connection
-3.Data Cleaning / Quality Check
-4.Data Modeling
-5.Data Processing
-6.DAX Calculations
-7.Dashboard Lay outing
-8.Charts Development and Formatting
-9.Dashboard / Report Development
-10.Insights Generation
+3. Data Cleaning / Quality Check
+4. Data Modeling
+5. Data Processing
+6. DAX Calculations
+7. Dashboard Lay outing
+8. Charts Development and Formatting
+9. Dashboard / Report Development
+10. Insights Generation
 
 __Types of charts used :-__
 1.Cluster bar graph
