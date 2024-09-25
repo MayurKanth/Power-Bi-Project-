@@ -10,16 +10,16 @@ __Key Performance Indicators__
 4. Customer Rating :- The average customer rating for items sold
 
 __Steps involved in the project are :-__
-> Data Walkthrough
-> Data Connection
-> Data Cleaning / Quality Check
-> Data Modeling
-> Data Processing
-> DAX Calculations
-> Dashboard Lay outing
-? Charts Development and Formatting
-> Dashboard / Report Development
-> Insights Generation
+1.Data Walkthrough
+2.Data Connection
+3.Data Cleaning / Quality Check
+4.Data Modeling
+5.Data Processing
+6.DAX Calculations
+7.Dashboard Lay outing
+8.Charts Development and Formatting
+9.Dashboard / Report Development
+10.Insights Generation
 
 __Types of charts used :-__
 1.Cluster bar graph
