@@ -10,8 +10,8 @@ __Key Performance Indicators__
 4. Customer Rating :- The average customer rating for items sold
 
 __Steps involved in the project are :-__
-1.Data Walkthrough
-2.Data Connection
+1. Data Walkthrough
+2. Data Connection
 3.Data Cleaning / Quality Check
 4.Data Modeling
 5.Data Processing
